@@ -8,7 +8,7 @@
 // @include      *
 // @grant        none
 // @run-at       document-start
-// @updateUrl    https://raw.githubusercontent.com/Eva-Rosalene/console-everywhere/master/console-everywhere.js
+// @updateUrl    https://raw.githubusercontent.com/Eva-Rosalene/console-everywhere/master/console-everywhere.user.js
 // ==/UserScript==
 
 (console => {
